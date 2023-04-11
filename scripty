@@ -1,0 +1,2 @@
+--get key here: https://github.com/EgeWWW/BegulaHub
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EgeWWW/BegulaHubMain/main/script'))()
